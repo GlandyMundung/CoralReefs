@@ -8,6 +8,5 @@ MarkupSafe==1.1.1
 tensorflow
 urllib3
 requests
-os
 uuid
-tensorflow.keras.models
+keras
