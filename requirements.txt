@@ -5,8 +5,7 @@ gunicorn==20.1.0
 itsdangerous==1.1.0
 Jinja2==2.10.1
 MarkupSafe==1.1.1
-tensorflow.keras
-flask
+tensorflow==2.1.0
 urllib
 os
 uuid
