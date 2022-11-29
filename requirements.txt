@@ -4,7 +4,7 @@ numpy==1.21.5
 gunicorn==20.1.0
 itsdangerous>=2.0
 Jinja2>=3.0
-MarkupSafe==1.1.1
+MarkupSafe>=2.0
 tensorflow
 urllib3
 requests
