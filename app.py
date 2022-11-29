@@ -9,7 +9,7 @@ from tensorflow.keras.preprocessing.image import load_img , img_to_array
 
 app = Flask(__name__)
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-model = load_model(os.path.join(BASE_DIR , 'effnet_model2.h5'))
+model = load_model(os.path.join(BASE_DIR , 'effnet_model4.h5'))
 
 
 ALLOWED_EXT = set(['jpg' , 'jpeg' , 'png' , 'jfif'])
