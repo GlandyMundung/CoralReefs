@@ -9,4 +9,3 @@ tensorflow
 urllib3
 requests
 uuid
-keras
